@@ -3,6 +3,7 @@ austenc.tailwind-docs
 bungcip.better-toml
 ChakrounAnas.turbo-console-log
 christian-kohler.path-intellisense
+CoenraadS.bracket-pair-colorizer
 DavidAnson.vscode-markdownlint
 douglaszaltron.nunjucks-vscode-extensionpack
 eseom.nunjucks-template

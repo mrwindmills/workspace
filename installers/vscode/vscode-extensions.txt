@@ -2,7 +2,6 @@ akamud.vscode-theme-onedark
 astro-build.astro-vscode
 alefragnani.Bookmarks
 bradlc.vscode-tailwindcss
-CoenraadS.bracket-pair-colorizer
 dbaeumer.vscode-eslint
 esbenp.prettier-vscode
 formulahendry.auto-close-tag
